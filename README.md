@@ -1,0 +1,2 @@
+# EDUTUBE-ADMIN
+EDUTUBE 어드민 패이지입니다.
